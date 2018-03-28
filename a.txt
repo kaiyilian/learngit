@@ -3,7 +3,4 @@ aa
 aaa
 aaaa
 
-change to master
-new add two
-new modify three
-
+this is first-func only
